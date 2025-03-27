@@ -1,2 +1,2 @@
 # OPS
-Overlapping Pairwise Summarization (OPS) Using Vertex AI
+Overlapping Pairwise Summarization (OPS)
